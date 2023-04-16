@@ -1,0 +1,2706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="icon-1603-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1603-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1603-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1720-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1720-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1720-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1720-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1720-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1826-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1826-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1826-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1826-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1826-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Greenpoint</name>
+        <styleUrl>#icon-1603-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9515032,40.7304701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>data.xlsx</name>
+      <Placemark>
+        <name>Indoor Air Quality Workshop</name>
+        <address>40.7183849 -73.9402009</address>
+        <description><![CDATA[url: https://northbrooklynneighbors.org/event/indoor-air-quality-workshop/<br>image_url: https://northbrooklynneighbors.org/wp-content/uploads/2023/03/Untitled-design-18.png<br>date: 2023-04-29<br>start_time: 10:30:00<br>end_time: 12:30:00<br>where: 76 Kingsland Avenue Brooklyn, NY 11211<br>description: Join North Brooklyn Neighbors for a free workshop to learn about indoor air quality and what you can do to improve the air in your…<br>source: northbrooklynneighbors<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 11211<br>Latitude: 40.7183849<br>Longitude: -73.9402009]]></description>
+        <styleUrl>#icon-1826-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://northbrooklynneighbors.org/event/indoor-air-quality-workshop/</value>
+          </Data>
+          <Data name="image_url">
+            <value>https://northbrooklynneighbors.org/wp-content/uploads/2023/03/Untitled-design-18.png</value>
+          </Data>
+          <Data name="date">
+            <value>2023-04-29</value>
+          </Data>
+          <Data name="start_time">
+            <value>10:30:00</value>
+          </Data>
+          <Data name="end_time">
+            <value>12:30:00</value>
+          </Data>
+          <Data name="where">
+            <value>76 Kingsland Avenue Brooklyn, NY 11211</value>
+          </Data>
+          <Data name="description">
+            <value>Join North Brooklyn Neighbors for a free workshop to learn about indoor air quality and what you can do to improve the air in your…</value>
+          </Data>
+          <Data name="source">
+            <value>northbrooklynneighbors</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>11211.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.7183849</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.9402009</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tenants Rights Workshop: Meeker Avenue Plume Investigation</name>
+        <address>40.7278789 -73.9406384</address>
+        <description><![CDATA[url: https://northbrooklynneighbors.org/event/tenants-rights-workshop-meeker-avenue-plume-investigation/<br>image_url: https://northbrooklynneighbors.org/wp-content/uploads/2023/03/Untitled-design-16.png<br>date: 2023-05-25<br>start_time: 17:30:00<br>end_time: 19:30:00<br>where: 107 Norman Avenue Brooklyn, NY 11222<br>description: What are your rights as a tenant in an environmental justice area like the Meeker Avenue Plume Superfund Site? Join St. Nicks Alliance to learn: Participate…<br>source: northbrooklynneighbors<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 11222<br>Latitude: 40.7278789<br>Longitude: -73.9406384]]></description>
+        <styleUrl>#icon-1826-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://northbrooklynneighbors.org/event/tenants-rights-workshop-meeker-avenue-plume-investigation/</value>
+          </Data>
+          <Data name="image_url">
+            <value>https://northbrooklynneighbors.org/wp-content/uploads/2023/03/Untitled-design-16.png</value>
+          </Data>
+          <Data name="date">
+            <value>2023-05-25</value>
+          </Data>
+          <Data name="start_time">
+            <value>17:30:00</value>
+          </Data>
+          <Data name="end_time">
+            <value>19:30:00</value>
+          </Data>
+          <Data name="where">
+            <value>107 Norman Avenue Brooklyn, NY 11222</value>
+          </Data>
+          <Data name="description">
+            <value>What are your rights as a tenant in an environmental justice area like the Meeker Avenue Plume Superfund Site? Join St. Nicks Alliance to learn: Participate…</value>
+          </Data>
+          <Data name="source">
+            <value>northbrooklynneighbors</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>11222.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.7278789</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.9406384</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Alley Pond Environmental Center Reconstruction</name>
+        <address>40.7503214 -73.74211785</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-03-01 00:00:00<br>start_time: <br>end_time: <br>where: Alley Pond Park, Queens<br>description: This project will construct a new environmental center in Alley Pond Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.7503214<br>Longitude: -73.74211785]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-03-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Alley Pond Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a new environmental center in Alley Pond Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.7503214</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.74211785</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bath Beach Park Playground Reconstruction</name>
+        <address>40.60239555 -74.01113856</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-03-01 00:00:00<br>start_time: <br>end_time: <br>where: Bath Beach Park, Brooklyn<br>description: This project will reconstruct and expand the playground, including new play equipment, new pavements, safety surfacing, site furnishings, drainage, and water supply; demolish the bocce courts and multipurpose play area and construct sitting and adult fitness areas; and reconstruct the central path in Bath Beach Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.60239555<br>Longitude: -74.01113856]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-03-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Bath Beach Park, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct and expand the playground, including new play equipment, new pavements, safety surfacing, site furnishings, drainage, and water supply; demolish the bocce courts and multipurpose play area and construct sitting and adult fitness areas; and reconstruct the central path in Bath Beach Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.60239555</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.01113856</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bronx and Manhattan Emerald Ash Borer (EAB) Related Tree Removal</name>
+        <address>-37.7994743 144.9384903</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-03-01 00:00:00<br>start_time: <br>end_time: <br>where: Citywide<br>description: This project will remove trees with emerald ash borer (EAB) in the Bronx and Manhattan.<br>source: nycgovparks<br>Country: Australia<br>State: Victoria<br>City: Melbourne<br>Postcode: 3051<br>Latitude: -37.7994743<br>Longitude: 144.9384903]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-03-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Citywide</value>
+          </Data>
+          <Data name="description">
+            <value>This project will remove trees with emerald ash borer (EAB) in the Bronx and Manhattan.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>Australia</value>
+          </Data>
+          <Data name="State">
+            <value>Victoria</value>
+          </Data>
+          <Data name="City">
+            <value>Melbourne</value>
+          </Data>
+          <Data name="Postcode">
+            <value>3051.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-37.7994743</value>
+          </Data>
+          <Data name="Longitude">
+            <value>144.9384903</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Brooklyn and Staten Island Emerald Ash Borer (EAB) Related Tree Removal</name>
+        <address>-37.7994743 144.9384903</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-03-01 00:00:00<br>start_time: <br>end_time: <br>where: Citywide<br>description: This project will remove trees with emerald ash borer (EAB) in Brooklyn and Staten Island.<br>source: nycgovparks<br>Country: Australia<br>State: Victoria<br>City: Melbourne<br>Postcode: 3051<br>Latitude: -37.7994743<br>Longitude: 144.9384903]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-03-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Citywide</value>
+          </Data>
+          <Data name="description">
+            <value>This project will remove trees with emerald ash borer (EAB) in Brooklyn and Staten Island.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>Australia</value>
+          </Data>
+          <Data name="State">
+            <value>Victoria</value>
+          </Data>
+          <Data name="City">
+            <value>Melbourne</value>
+          </Data>
+          <Data name="Postcode">
+            <value>3051.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-37.7994743</value>
+          </Data>
+          <Data name="Longitude">
+            <value>144.9384903</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Red Hook Community Farm Water Service Construction</name>
+        <address>40.67139535 -74.00606189</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-03-01 00:00:00<br>start_time: <br>end_time: <br>where: Red Hook Recreation Area, Brooklyn<br>description: This project will construct water service at Red Hook Community Farm.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.67139535<br>Longitude: -74.00606189]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-03-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Red Hook Recreation Area, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct water service at Red Hook Community Farm.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.67139535</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.00606189</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Staten Island Tree-Damaged Sidewalk Reconstruction FY21</name>
+        <address>40.5834557 -74.1496048</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-03-01 00:00:00<br>start_time: <br>end_time: <br>where: Staten Island<br>description: This project will reconstruct sidewalks damaged by trees in Staten Island.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.5834557<br>Longitude: -74.1496048]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-03-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Staten Island</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct sidewalks damaged by trees in Staten Island.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.5834557</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.1496048</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Betsy Head Pool Electrical System Reconstruction</name>
+        <address>40.6627297 -73.91336984</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Betsy Head Park, Brooklyn<br>description: This project will reconstruct the electrical system at Betsy Head Pool.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.6627297<br>Longitude: -73.91336984]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Betsy Head Park, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the electrical system at Betsy Head Pool.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6627297</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.91336984</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Callahan-Kelly Playground Reconstruction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Callahan-Kelly Playground, Brooklyn<br>description: This project will reconstruct the playground, spray shower, perimeter sidewalks and walls, basketball courts, adult fitness equipment and sitting areas in Callahan-Kelly Playground. In addition, this project will construct a new skate park and park entrances.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Callahan-Kelly Playground, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the playground, spray shower, perimeter sidewalks and walls, basketball courts, adult fitness equipment and sitting areas in Callahan-Kelly Playground. In addition, this project will construct a new skate park and park entrances.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Corporal Irwin Fischer Park Construction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Cpl Fischer Park, Bronx<br>description: This project will construct Corporal Irwin Fischer Park.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Cpl Fischer Park, Bronx</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct Corporal Irwin Fischer Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Grace Playground Reconstruction</name>
+        <address>40.67156135 -73.8943681</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Grace Playground, Brooklyn<br>description: This project will reconstruct the playground area in Grace Playground, including the play equipment, safety surfacing, spray shower, fencing, and utilities.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.67156135<br>Longitude: -73.8943681]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Grace Playground, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the playground area in Grace Playground, including the play equipment, safety surfacing, spray shower, fencing, and utilities.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.67156135</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.8943681</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Highland Park Lower East Playground Comfort Station Reconstruction</name>
+        <address>40.6871747 -73.88774219</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Highland Park, Queens<br>description: This project will reconstruct the comfort station at the lower east playground in Highland Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.6871747<br>Longitude: -73.88774219]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Highland Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the comfort station at the lower east playground in Highland Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6871747</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.88774219</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Inwood Hill Nature Center Post-Sandy Reconstruction</name>
+        <address>40.87227365 -73.92542709</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Inwood Hill Park, Manhattan<br>description: This project will reconstruct the Inwood Hill Nature Center at Inwood Hill Park due to damage caused by Hurricane Sandy.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.87227365<br>Longitude: -73.92542709]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Inwood Hill Park, Manhattan</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the Inwood Hill Nature Center at Inwood Hill Park due to damage caused by Hurricane Sandy.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.87227365</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.92542709</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kissena Corridor Park and Hutchinson River Parkway Path Lighting Construction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Multiple Parks, Multiple Boroughs<br>description: This project will construct pathway lighting at Kissena Corridor Park between 56th Avenue and Colden Street and at Hutchinson River Parkway along Bartow Avenue.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Multiple Parks, Multiple Boroughs</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct pathway lighting at Kissena Corridor Park between 56th Avenue and Colden Street and at Hutchinson River Parkway along Bartow Avenue.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>McDonald Playground Reconstruction</name>
+        <address>40.60042545 -73.97209571</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: McDonald Playground, Brooklyn<br>description: This project will reconstruct the play area in McDonald Playground.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.60042545<br>Longitude: -73.97209571]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>McDonald Playground, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the play area in McDonald Playground.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.60042545</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.97209571</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Naples Playground Reconstruction</name>
+        <address>40.6025011 -74.09004792</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Naples Playground, Staten Island<br>description: This project will reconstruct Naples Playground, including the play area, the basketball courts, and the ball field fencing.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.6025011<br>Longitude: -74.09004792]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Naples Playground, Staten Island</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct Naples Playground, including the play area, the basketball courts, and the ball field fencing.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6025011</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.09004792</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Red Hook Recreation Area Ballfield 9 and Soccer Field 2 Reconstruction</name>
+        <address>40.67139535 -74.00606189</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Red Hook Recreation Area, Brooklyn<br>description: This project will convert a ballfield and soccer field from natural turf to synthetic turf and remediate contaminated soils at Red Hook Recreation Area.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.67139535<br>Longitude: -74.00606189]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Red Hook Recreation Area, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will convert a ballfield and soccer field from natural turf to synthetic turf and remediate contaminated soils at Red Hook Recreation Area.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.67139535</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.00606189</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Staten Island Street Tree Planting FY21 (RG-619M)</name>
+        <address>40.5834557 -74.1496048</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-04-01 00:00:00<br>start_time: <br>end_time: <br>where: Staten Island<br>description: This project will plant new trees in Staten Island.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.5834557<br>Longitude: -74.1496048]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-04-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Staten Island</value>
+          </Data>
+          <Data name="description">
+            <value>This project will plant new trees in Staten Island.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.5834557</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.1496048</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bellevue South Park Reconstruction</name>
+        <address>40.74003965 -73.97805142</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Bellevue South Park, Manhattan<br>description: This project will construct an ADA-accessible dog run and reconstruct the basketball court, playground, and sitting areas at Bellevue South Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.74003965<br>Longitude: -73.97805142]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Bellevue South Park, Manhattan</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct an ADA-accessible dog run and reconstruct the basketball court, playground, and sitting areas at Bellevue South Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.74003965</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.97805142</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Brooklyn Street Tree Planting FY21 - Community Boards 2-3</name>
+        <address>40.6526006 -73.9497211</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Brooklyn<br>description: This project will plant new and replacement trees in Community Boards 2-3 in Brooklyn.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.6526006<br>Longitude: -73.9497211]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will plant new and replacement trees in Community Boards 2-3 in Brooklyn.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6526006</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.9497211</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Julio Carballo Fields Lighting and Scoreboard Construction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Julio Carballo Fields, Bronx<br>description: This project will construct sports lighting and a scoreboard at Julio Carballo Fields.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Julio Carballo Fields, Bronx</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct sports lighting and a scoreboard at Julio Carballo Fields.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kelly Playground Reconstruction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Kelly Park Playground, Brooklyn<br>description: This project will reconstruct the children's play area in Kelly Playground.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Kelly Park Playground, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value><![CDATA[This project will reconstruct the children's play area in Kelly Playground.]]></value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Marcy Green Park Reconstruction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Multiple Parks, Brooklyn<br>description: This project will reconstruct Marcy Green Park. Marcy Green North will include a spray shower, lawn, and seating areas. Marcy Green Center will include seating areas and ping pong tables, and Marcy Green South will include a new dog run.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Multiple Parks, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct Marcy Green Park. Marcy Green North will include a spray shower, lawn, and seating areas. Marcy Green Center will include seating areas and ping pong tables, and Marcy Green South will include a new dog run.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Noble Playground Reconstruction</name>
+        <address>40.8374094 -73.87231971</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Noble Playground, Bronx<br>description: This project will reconstruct the play area at Noble Playground.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.8374094<br>Longitude: -73.87231971]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Noble Playground, Bronx</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the play area at Noble Playground.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.8374094</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.87231971</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Police Officer Edward Byrne Park Basketball and Tennis Courts Reconstruction</name>
+        <address>40.6675008 -73.8078412</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Police Officer Edward Byrne Park, Queens<br>description: This project will reconstruct the basketball and tennis courts at Police Officer Edward Byrne Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 11420<br>Latitude: 40.6675008<br>Longitude: -73.8078412]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Police Officer Edward Byrne Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the basketball and tennis courts at Police Officer Edward Byrne Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>11420.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6675008</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.8078412</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Queens Tree-Damaged Sidewalk Reconstruction Community Boards 1-6,9,10 (QG-1223M)</name>
+        <address>40.7135078 -73.8283132</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Queens<br>description: This project will reconstruct sidewalks damaged by adjacent city-owned trees in Community Boards 1-6,9, 10.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.7135078<br>Longitude: -73.8283132]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct sidewalks damaged by adjacent city-owned trees in Community Boards 1-6,9, 10.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.7135078</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.8283132</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Shore Front Parkway Beach 98th Playground Construction</name>
+        <address>40.584095 -73.81337667</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Rockaway Beach Boardwalk, Queens<br>description: This project will construct a playground at Shore Front Parkway.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 11693<br>Latitude: 40.584095<br>Longitude: -73.81337667]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Rockaway Beach Boardwalk, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a playground at Shore Front Parkway.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>11693.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.584095</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.81337667</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Shore Front Parkway Multi-Purpose Area Construction</name>
+        <address>40.584095 -73.81337667</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Rockaway Beach Boardwalk, Queens<br>description: This project will construct a multi-purpose sports field at Shore Front Parkway.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 11693<br>Latitude: 40.584095<br>Longitude: -73.81337667]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Rockaway Beach Boardwalk, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a multi-purpose sports field at Shore Front Parkway.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>11693.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.584095</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.81337667</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sunners Playground Reconstruction</name>
+        <address>40.6322751 -73.9297262</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Sunners Playground, Brooklyn<br>description: This project will reconstruct Sunners Playground.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 11234<br>Latitude: 40.6322751<br>Longitude: -73.9297262]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Sunners Playground, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct Sunners Playground.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>11234.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6322751</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.9297262</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Cove Park Boardwalk and Outdoor Classroom Construction</name>
+        <address>40.59764345 -73.82250075</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-05-01 00:00:00<br>start_time: <br>end_time: <br>where: Sunset Cove Park, Queens<br>description: This project will construct a boardwalk and outdoor classroom at Sunset Cove Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.59764345<br>Longitude: -73.82250075]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-05-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Sunset Cove Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a boardwalk and outdoor classroom at Sunset Cove Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.59764345</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.82250075</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bronx Children's Museum Roof Reconstruction]]></name>
+        <address>40.82268615 -73.93175936</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Mill Pond Park, Bronx<br>description: This project will reconstruct the roof at the Bronx Children's Museum in Mill Pond Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.82268615<br>Longitude: -73.93175936]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Mill Pond Park, Bronx</value>
+          </Data>
+          <Data name="description">
+            <value><![CDATA[This project will reconstruct the roof at the Bronx Children's Museum in Mill Pond Park.]]></value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.82268615</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.93175936</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Brooklyn War Memorial Restroom and Eleanor Roosevelt Playground Comfort Station Reconstruction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Multiple Parks, Brooklyn<br>description: This project will reconstruct Brooklyn War Memorial Restroom and Eleanor Roosevelt Playground Comfort Station.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Multiple Parks, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct Brooklyn War Memorial Restroom and Eleanor Roosevelt Playground Comfort Station.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chelsea Park Basketball Court Reconstruction</name>
+        <address>40.74992925 -74.00067926</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Chelsea Park, Manhattan<br>description: This project will reconstruct the basketball court and adjacent paths and landscape at Chelsea Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.74992925<br>Longitude: -74.00067926]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Chelsea Park, Manhattan</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the basketball court and adjacent paths and landscape at Chelsea Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.74992925</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.00067926</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ewen Park Adult Fitness Equipment Construction</name>
+        <address>40.88216915 -73.90992951</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Ewen Park, Bronx<br>description: This project will construct an adult fitness area in Ewen Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.88216915<br>Longitude: -73.90992951]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Ewen Park, Bronx</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct an adult fitness area in Ewen Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.88216915</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.90992951</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Flushing Meadow Corona Park Saturn Playground Water Service Reconstruction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Flushing Meadows Corona Park, Queens<br>description: This project will reconstruct the water service at Flushing Meadow Corona Park Saturn Playground.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Flushing Meadows Corona Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the water service at Flushing Meadow Corona Park Saturn Playground.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Highland Park Stone Bridge Overlook Area Reconstruction</name>
+        <address>40.6871747 -73.88774219</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Highland Park, Queens<br>description: This project will reconstruct the overlook area around the stone bridge with new pathways, reconstructing steps and stone walls in Highland Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.6871747<br>Longitude: -73.88774219]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Highland Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the overlook area around the stone bridge with new pathways, reconstructing steps and stone walls in Highland Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6871747</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.88774219</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Jacob Schiff Playground Sitting Area Reconstruction</name>
+        <address>40.82059105 -73.95196522</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Jacob H. Schiff Playground, Manhattan<br>description: This project will reconstruct the sitting area in Jacob Schiff Playground.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.82059105<br>Longitude: -73.95196522]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Jacob H. Schiff Playground, Manhattan</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the sitting area in Jacob Schiff Playground.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.82059105</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.95196522</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Jamaica Playground Reconstruction</name>
+        <address>40.6934413 -73.79117469</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Jamaica Playground, Queens<br>description: This project will reconstruct Jamaica Playground.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.6934413<br>Longitude: -73.79117469]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Jamaica Playground, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct Jamaica Playground.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6934413</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.79117469</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Madison Square Park Pavement Reconstruction</name>
+        <address>40.742203 -73.98796547</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Madison Square Park, Manhattan<br>description: This project will reconstruct the pavement in the southern portion of Madison Square Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 10010<br>Latitude: 40.742203<br>Longitude: -73.98796547]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Madison Square Park, Manhattan</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the pavement in the southern portion of Madison Square Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>10010.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.742203</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.98796547</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>McCarren Park Pool Tub Expansion Joint Reconstruction</name>
+        <address>40.7211342 -73.95291873</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: McCarren Park, Brooklyn<br>description: This project will reconstruct the pool tub expansion joints at McCarren Park Pool.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.7211342<br>Longitude: -73.95291873]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>McCarren Park, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the pool tub expansion joints at McCarren Park Pool.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.7211342</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.95291873</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>New York State Pavilion Observation Towers Reconstruction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Flushing Meadows Corona Park, Queens<br>description: This project will reconstruct portions of the New York State Pavilion Observation Towers in Flushing Meadows Corona Park.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Flushing Meadows Corona Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct portions of the New York State Pavilion Observation Towers in Flushing Meadows Corona Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Red Hook Pool Tub Expansion Joint Reconstruction</name>
+        <address>40.67139535 -74.00606189</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Red Hook Recreation Area, Brooklyn<br>description: This project will reconstruct the pool tub expansion joints at Red Hook Pool.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.67139535<br>Longitude: -74.00606189]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Red Hook Recreation Area, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the pool tub expansion joints at Red Hook Pool.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.67139535</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.00606189</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Riverside Park 102nd Street Staircase Reconstruction</name>
+        <address>40.7879331 -73.98245552</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Riverside Park, Manhattan<br>description: This project will reconstruct the staircase at West 102nd Street in Riverside Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 10024<br>Latitude: 40.7879331<br>Longitude: -73.98245552]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Riverside Park, Manhattan</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the staircase at West 102nd Street in Riverside Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>10024.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.7879331</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.98245552</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Shore Front Parkway Labyrinth and Seating Area Construction</name>
+        <address>40.584095 -73.81337667</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: Rockaway Beach Boardwalk, Queens<br>description: This project will construct a labyrinth and seating area at Shore Front Parkway.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: 11693<br>Latitude: 40.584095<br>Longitude: -73.81337667]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Rockaway Beach Boardwalk, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a labyrinth and seating area at Shore Front Parkway.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value>11693.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.584095</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.81337667</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. James Park Dog Run Construction</name>
+        <address>40.8651599 -73.89779431</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-06-01 00:00:00<br>start_time: <br>end_time: <br>where: St. James Park, Bronx<br>description: This project will construct a dog run in St. James Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.8651599<br>Longitude: -73.89779431]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-06-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>St. James Park, Bronx</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a dog run in St. James Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.8651599</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.89779431</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Highbridge Park Comfort Station Construction</name>
+        <address>40.84591775 -73.92984479</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-07-01 00:00:00<br>start_time: <br>end_time: <br>where: Highbridge Park, Manhattan<br>description: This project will construct a comfort station in Highbridge Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.84591775<br>Longitude: -73.92984479]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-07-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Highbridge Park, Manhattan</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a comfort station in Highbridge Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.84591775</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.92984479</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Hill Playground Reconstruction</name>
+        <address>40.67437265 -73.91218126</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-07-01 00:00:00<br>start_time: <br>end_time: <br>where: Ocean Hill Playground, Brooklyn<br>description: This project will reconstruct the multipurpose play area and sports courts at Ocean Hill Playground.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.67437265<br>Longitude: -73.91218126]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-07-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Ocean Hill Playground, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the multipurpose play area and sports courts at Ocean Hill Playground.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.67437265</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.91218126</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Shore Park and Parkway Dog Run Construction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-07-01 00:00:00<br>start_time: <br>end_time: <br>where: Shore Park and Parkway, Brooklyn<br>description: This project will construct a dog run in Shore Park and Parkway.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-07-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Shore Park and Parkway, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will construct a dog run in Shore Park and Parkway.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Shore Park and Parkway Path and Pavement Reconstruction</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-07-01 00:00:00<br>start_time: <br>end_time: <br>where: Shore Park and Parkway, Brooklyn<br>description: This project will reconstruct a portion of the western Shore Road Park path and the pavement surrounding the Field House.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-07-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Shore Park and Parkway, Brooklyn</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct a portion of the western Shore Road Park path and the pavement surrounding the Field House.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Springfield Park Basketball Courts and BBQ Area Reconstruction</name>
+        <address>40.6619402 -73.76154554</address>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-07-01 00:00:00<br>start_time: <br>end_time: <br>where: Springfield Park, Queens<br>description: This project will reconstruct the basketball courts, and install new picnic tables, grills, charcoal bins, trees, and an accessible path to the BBQ area in Springfield Park.<br>source: nycgovparks<br>Country: United States<br>State: New York<br>City: City of New York<br>Postcode: <br>Latitude: 40.6619402<br>Longitude: -73.76154554]]></description>
+        <styleUrl>#icon-1720-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-07-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Springfield Park, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct the basketball courts, and install new picnic tables, grills, charcoal bins, trees, and an accessible path to the BBQ area in Springfield Park.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="State">
+            <value>New York</value>
+          </Data>
+          <Data name="City">
+            <value>City of New York</value>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>40.6619402</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-73.76154554</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Vanderbilt Motor Parkway Reconstruction Phase 2</name>
+        <description><![CDATA[url: <br>image_url: <br>date: 2023-07-01 00:00:00<br>start_time: <br>end_time: <br>where: Multiple Parks, Queens<br>description: This project will reconstruct Vanderbilt Motor Parkway from Springfield Boulevard to 199th Street, north of 67th Avenue.<br>source: nycgovparks<br>Country: <br>State: <br>City: <br>Postcode: <br>Latitude: <br>Longitude: ]]></description>
+        <ExtendedData>
+          <Data name="url">
+            <value/>
+          </Data>
+          <Data name="image_url">
+            <value/>
+          </Data>
+          <Data name="date">
+            <value>2023-07-01 00:00:00</value>
+          </Data>
+          <Data name="start_time">
+            <value/>
+          </Data>
+          <Data name="end_time">
+            <value/>
+          </Data>
+          <Data name="where">
+            <value>Multiple Parks, Queens</value>
+          </Data>
+          <Data name="description">
+            <value>This project will reconstruct Vanderbilt Motor Parkway from Springfield Boulevard to 199th Street, north of 67th Avenue.</value>
+          </Data>
+          <Data name="source">
+            <value>nycgovparks</value>
+          </Data>
+          <Data name="Country">
+            <value/>
+          </Data>
+          <Data name="State">
+            <value/>
+          </Data>
+          <Data name="City">
+            <value/>
+          </Data>
+          <Data name="Postcode">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value/>
+          </Data>
+          <Data name="Longitude">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
